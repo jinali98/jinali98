@@ -6,8 +6,6 @@
 <a href="https://twitter.com/JinaliPabasara/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="mailto:jinalipabasara@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
 
-<br>
-
 <h3>Languages and Tools</h3>
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,6 +18,8 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![materialui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jinali98&show_icons=true&count_private=true" width="500" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinali98&layout=compact/" width="300" height="auto"/>
