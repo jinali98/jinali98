@@ -21,7 +21,7 @@
 
 <h3>Recent Articles</h3>
 
-  -[Array Destructuring in JavaScript](https://medium.com/@jinalipabasara/array-destructuring-in-javascript-b117c31418af)
+  * [Array Destructuring in JavaScript](https://medium.com/@jinalipabasara/array-destructuring-in-javascript-b117c31418af)
 
 <br>
 
