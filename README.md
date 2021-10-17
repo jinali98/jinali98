@@ -22,6 +22,7 @@
 <h3>Recent Articles</h3>
 
   * [Array Destructuring in JavaScript](https://medium.com/@jinalipabasara/array-destructuring-in-javascript-b117c31418af)
+  * [useState Hook in React Hooks](https://medium.com/@jinalipabasara/usestate-hook-in-react-hooks-42f99a08f8f)
 
 <br>
 
