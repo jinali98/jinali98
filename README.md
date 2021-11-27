@@ -24,6 +24,9 @@
   * [Array Destructuring in JavaScript](https://medium.com/@jinalipabasara/array-destructuring-in-javascript-b117c31418af)
   * [useState Hook in React Hooks](https://medium.com/@jinalipabasara/usestate-hook-in-react-hooks-42f99a08f8f)
 
+<h3>Portfolio Projects</h3>
+* [Daily - Task Manager](https://portfolio-project-daily.herokuapp.com)
+* [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jinali98&show_icons=true&count_private=true" width="500" height="auto"/>
