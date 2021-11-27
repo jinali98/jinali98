@@ -25,6 +25,7 @@
   * [useState Hook in React Hooks](https://medium.com/@jinalipabasara/usestate-hook-in-react-hooks-42f99a08f8f)
 
 <h3>Portfolio Projects</h3>
+
   * [Daily - Task Manager](https://portfolio-project-daily.herokuapp.com)
   * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
 
