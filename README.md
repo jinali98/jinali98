@@ -27,6 +27,7 @@
 <h3>Portfolio Projects</h3>
 
   * [Daily - Task Manager](https://portfolio-project-daily.herokuapp.com)
+  * [Amish-Furniture](https://jinali98-amish-furniture.herokuapp.com)
   * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
 
 <br>
