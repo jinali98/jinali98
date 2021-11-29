@@ -29,6 +29,7 @@
   * [Daily - Task Manager](https://portfolio-project-daily.herokuapp.com)
   * [Amish-Furniture](https://jinali98-amish-furniture.herokuapp.com)
   * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
+  * [Jude's Ice Cream]("https://jinali98-judes-ice-cream.netlify.app/")
 
 <br>
 
