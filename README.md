@@ -20,7 +20,8 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h3>Resume</h3>
-[view resume](https://drive.google.com/file/d/1THo3RwlFhaSxYpE9AM1iOqN-8tmBZQdT/view?usp=sharing)
+
+ [view resume](https://drive.google.com/file/d/1THo3RwlFhaSxYpE9AM1iOqN-8tmBZQdT/view?usp=sharing)
 
 <h3>Recent Articles</h3>
 
