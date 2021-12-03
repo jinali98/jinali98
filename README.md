@@ -19,6 +19,9 @@
 ![materialui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<h3>Resume</h3>
+[view resume](https://drive.google.com/file/d/1THo3RwlFhaSxYpE9AM1iOqN-8tmBZQdT/view?usp=sharing)
+
 <h3>Recent Articles</h3>
 
   * [Array Destructuring in JavaScript](https://medium.com/@jinalipabasara/array-destructuring-in-javascript-b117c31418af)
