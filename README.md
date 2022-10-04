@@ -21,8 +21,8 @@ Hi there 👋, It's Jinali!
 
 <h3>Recent Articles</h3>
 
-  * [Array Destructuring in JavaScript](https://medium.com/@jinalipabasara/array-destructuring-in-javascript-b117c31418af)
-  * [useState Hook in React Hooks](https://medium.com/@jinalipabasara/usestate-hook-in-react-hooks-42f99a08f8f)
+  * [Key Takeaways From My Software Engineering Internship](https://medium.com/apium-innovations/key-takeaways-from-my-software-engineering-internship-eb9c060732b)
+  * [Revelations: How JavaScript Works Behind The Scenes](https://medium.com/apium-innovations/how-javascript-works-behind-the-scenes-766d8a816c68)
 
 <h3>Portfolio Projects</h3>
 
@@ -32,8 +32,4 @@ Hi there 👋, It's Jinali!
   * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
   * [Jude's Ice Cream](https://jinali98-judes-ice-cream.netlify.app)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jinali98&show_icons=true&count_private=true" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinali98&layout=compact/" width="300" height="auto"/>
 
