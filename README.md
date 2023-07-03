@@ -20,7 +20,7 @@ Hi there 👋, It's Jinali!
 <h3>Portfolio Projects</h3>
 
   * [Daily - Task Manager](https://portfolio-project-daily.herokuapp.com)
-  * [MyMeal - calorie-tracker](https://my-meal-calori-tracker.herokuapp.com)
+  * [MyMeal - calorie-tracker](https://main.d2r7pj44vnzlqv.amplifyapp.com)
   * [Amish-Furniture](https://jinali98-amish-furniture.herokuapp.com)
   * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
   * [Jude's Ice Cream](https://jinali98-judes-ice-cream.netlify.app)
