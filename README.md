@@ -19,7 +19,7 @@ Hi there 👋, It's Jinali!
 
 <h3>Portfolio Projects</h3>
 
-  * [Daily - Task Manager](https://portfolio-project-daily.herokuapp.com)
+  * [Daily - Task Manager](https://todo-manager-daily.netlify.app/signin)
   * [MyMeal - calorie-tracker](https://main.d2r7pj44vnzlqv.amplifyapp.com)
   * [Amish-Furniture](https://amish-furniture.netlify.app)
   * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
