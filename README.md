@@ -14,15 +14,9 @@ Hi there 👋, It's Jinali!
 
 <h3>Recent Articles</h3>
 
+  * [AWS Networking Series](https://medium.com/apium-innovations/lets-build-a-cloud-network-01-vpc-and-subnets-c3d819634491)
   * [Key Takeaways From My Software Engineering Internship](https://medium.com/apium-innovations/key-takeaways-from-my-software-engineering-internship-eb9c060732b)
   * [Revelations: How JavaScript Works Behind The Scenes](https://medium.com/apium-innovations/how-javascript-works-behind-the-scenes-766d8a816c68)
 
-<h3>Portfolio Projects</h3>
-
-  * [Daily - Task Manager](https://todo-manager-daily.netlify.app)
-  * [MyMeal - calorie-tracker](https://main.d2r7pj44vnzlqv.amplifyapp.com)
-  * [Amish-Furniture](https://amish-furniture.netlify.app)
-  * [Weatehr App](https://jinali98-portfolio-project-weather-app.netlify.app)
-  * [Jude's Ice Cream](https://jinali98-judes-ice-cream.netlify.app)
 
 
