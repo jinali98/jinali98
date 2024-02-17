@@ -15,7 +15,6 @@ Hi there 👋, It's Jinali!
 <h3>Recent Articles</h3>
 
   * [AWS Networking Series](https://medium.com/apium-innovations/lets-build-a-cloud-network-01-vpc-and-subnets-c3d819634491)
-  * [Key Takeaways From My Software Engineering Internship](https://medium.com/apium-innovations/key-takeaways-from-my-software-engineering-internship-eb9c060732b)
   * [Revelations: How JavaScript Works Behind The Scenes](https://medium.com/apium-innovations/how-javascript-works-behind-the-scenes-766d8a816c68)
 
 
