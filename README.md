@@ -14,6 +14,7 @@ Hi there 👋, It's Jinali!
 
 <h3>Recent Articles</h3>
 
+  * [Crafting a Stitch Inspired Memecoin on Sui](https://apiuminnovations.substack.com/p/stitching-on-chain-mischief-part)
   * [AWS Networking Series](https://medium.com/apium-innovations/lets-build-a-cloud-network-01-vpc-and-subnets-c3d819634491)
   * [Revelations: How JavaScript Works Behind The Scenes](https://medium.com/apium-innovations/how-javascript-works-behind-the-scenes-766d8a816c68)
 
